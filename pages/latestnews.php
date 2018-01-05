@@ -67,7 +67,7 @@ $news_content .= '
 							<img src="'.$layout_name.'/images/news/announcement.gif" width="150" height="100" border="0" alt="">
 						</div>
                     <div style="position: relative; top: -9px; margin-bottom: 10px;"><br>
-				 <font size="2px"></font><center><font size="2px"><b> IP:</b> '.$config['server']['ip'].' |&nbsp;  <b>Port:</b> 7171 |&nbsp;  <b>Version:</b> '.$config['server']['clientVersionMin'].'/'.$config['server']['clientVersionMax'].'</font> <br> </a></center><br><font size="2px">Welcome to <b><font color="green">' . htmlspecialchars($config['server']['serverName']) . '</font></b>, we count on map most complete of all servers currently, Cooldown and reworked Spells for a more dynamic and fun PvP.</p>Several bugs fixed and being fixed daily. Come check out the best server of all time! Here your fun is guaranteed!
+				 <font size="2px"></font><center><font size="2px"><b> IP:</b> '.$config['server']['ip'].' |&nbsp;  <b>Port:</b> '.$config['server']['statusProtocolPort'].' |&nbsp;  <b>Version:</b> '.$config['server']['clientVersionMin'].'/'.$config['server']['clientVersionMax'].'</font> <br> </a></center><br><font size="2px">Welcome to <b><font color="green">' . htmlspecialchars($config['server']['serverName']) . '</font></b>, we count on map most complete of all servers currently, Cooldown and reworked Spells for a more dynamic and fun PvP.</p>Several bugs fixed and being fixed daily. Come check out the best server of all time! Here your fun is guaranteed!
                 </font> </div>
 						</div>
       				</div>
